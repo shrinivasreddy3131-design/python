@@ -22,8 +22,8 @@ This repository contains my daily Python programming practice.
 |---|---|---|
 | Day 1 | `python.py` | Hello World |
 | Day 2 | `day_2.py` | Print Statements |
-| Day 3 | `day_3.py` | Coming Soon |
-
+| Day 3 | `day_3.py` | variables,datatypes,arthamiticsoperations|
+| day 4 |'day_4.py' | comming soon |
 ## 🎯 Goal
 
 Practice Python every day and improve my programming skills.
