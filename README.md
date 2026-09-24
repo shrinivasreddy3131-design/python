@@ -23,7 +23,8 @@ This repository contains my daily Python programming practice.
 | Day 1 | `python.py` | Hello World |
 | Day 2 | `day_2.py` | Print Statements |
 | Day 3 | `day_3.py` | variables,datatypes,arthamiticsoperations|
-| day 4 | day_4.py | comming soon |
+| day 4 | day_4.py | Input and Output in Python- 00:35
+Simple Project Walkthrough,Formatted Strings,Absolute Value Function,Comments in Python ,Multi-line Comments |
 ## 🎯 Goal
 
 Practice Python every day and improve my programming skills.
