@@ -24,6 +24,7 @@ This repository contains my daily Python programming practice.
 | Day 2 | `day_2.py` | Print Statements |
 | Day 3 | `day_3.py` | variables,datatypes,arthamiticsoperations|
 | day 4 | day_4.py | Input and Output in Python |
+|day 5 | ady_5.py | python string practics |
 ## 🎯 Goal
 
 Practice Python every day and improve my programming skills.
