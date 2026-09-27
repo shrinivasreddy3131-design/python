@@ -26,6 +26,7 @@ This repository contains my daily Python programming practice.
 | day 4 | day_4.py | Input and Output in Python |
 |day 5 | day_5.py | python string practics |
 |day 6 | day_5.py | added python code |
+| day 7 | day_7.py | python basic |
 ## 🎯 Goal
 
 Practice Python every day and improve my programming skills.
