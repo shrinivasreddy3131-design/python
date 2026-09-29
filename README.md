@@ -28,6 +28,7 @@ This repository contains my daily Python programming practice.
 |day 6 | day_5.py | added python code |
 | day 7 | day_7.py | python basic |
 |day 8 | day_8.py | operators in python|
+| day 9 | day_9.py | list in python |
 ## 🎯 Goal
 
 Practice Python every day and improve my programming skills.
