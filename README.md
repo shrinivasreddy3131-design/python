@@ -31,6 +31,7 @@ This repository contains my daily Python programming practice.
 | day 9 | day_9.py | list in python |
 | day 10 | day_10.py | python rivigen |
 | day 11 | day_11.py | list in python |
+| day 12 | day_12.py | python practics |
 ## 🎯 Goal
 
 Practice Python every day and improve my programming skills.
