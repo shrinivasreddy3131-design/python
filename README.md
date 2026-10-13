@@ -38,6 +38,11 @@ This repository contains my daily Python programming practice.
 | day 16 | day_16.py | python basic |
 | day 17 | day_17.py | python rivigen |
 | day 18 | day_18.py | python string practics |
+| day 19 | day_19.py | python basic |
+| day 20 | day_20.py | python strings |
+| day 21 | day_21.py | added python code |
+| day 22 | day_22.py | list in python | 
+| day 23 | day_23.py | matrix in python |
 ## 🎯 Goal
 
 Practice Python every day and improve my programming skills.
