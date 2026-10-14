@@ -43,6 +43,7 @@ This repository contains my daily Python programming practice.
 | day 21 | day_21.py | added python code |
 | day 22 | day_22.py | list in python | 
 | day 23 | day_23.py | matrix in python |
+| day 24 | day_24.py | matrix rivigen |
 ## 🎯 Goal
 
 Practice Python every day and improve my programming skills.
