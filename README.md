@@ -46,6 +46,7 @@ This repository contains my daily Python programming practice.
 | day 24 | day_24.py | matrix rivigen |
 | day 25 | day_25.py | python rivigen |
 | day 26 | day_26.py |  list in python |
+| day 27 | day_27.py | python basic code |
 ## 🎯 Goal
 
 Practice Python every day and improve my programming skills.
