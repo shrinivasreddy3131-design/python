@@ -48,6 +48,7 @@ This repository contains my daily Python programming practice.
 | day 26 | day_26.py |  list in python |
 | day 27 | day_27.py | python basic code |
 | day 28 | day_28.py | python basic |
+| day 29 | day_29.py | python basic code |
 ## 🎯 Goal
 
 Practice Python every day and improve my programming skills.
