@@ -58,3 +58,8 @@ Practice Python every day and improve my programming skills.
 **Shrinivas Jainapur**
 
 AI & Data Science Student
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
