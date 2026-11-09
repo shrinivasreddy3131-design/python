@@ -59,6 +59,7 @@ This repository contains my daily Python programming practice.
 | day 37 | day_37.py | python basic day 37 |
 | day 38 | day_38.py | python list practics |
 | day 39 | day_39.py | python coding practics |
+| day 40 | day_40.py | python coding |
 ## 🎯 Goal
 
 Practice Python every day and improve my programming skills.
